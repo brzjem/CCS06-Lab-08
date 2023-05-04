@@ -1,0 +1,17 @@
+{
+    "name": "itsromack/ccs06-login-reg",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jemimah C. Breiz",
+            "email": "breiz.jemimah@auf.edu.ph"
+        }
+    ],
+    "require":{
+        "vlucas/phpdotenv": "^5.5"
+    }
+}
